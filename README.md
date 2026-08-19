@@ -194,7 +194,8 @@ state/nonce 반사, 클라이언트 인증(Basic/post/none), UserInfo의 aud 검
 - **위임 재교환 차단** — 이미 `act`가 붙은 토큰은 다시 교환할 수 없습니다.
 - **세션 확인** — 로그아웃된 세션의 토큰으로는 새 토큰을 받아갈 수 없습니다.
 
-설정 하나하나의 배경은 [PROVIDER-NOTES.md](PROVIDER-NOTES.md)에 정리했습니다.
+설정 하나하나의 배경은 [PROVIDER-NOTES.md](PROVIDER-NOTES.md)에,
+RP·RS·JIT·SCIM 같은 용어는 [GLOSSARY.md](GLOSSARY.md)에 정리했습니다.
 
 ## 목업이라 생략한 것 (운영 전환 시 필요)
 
